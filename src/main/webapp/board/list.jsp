@@ -7,6 +7,7 @@
 <title>게시판</title>
 </head>
 <body>
-<h2>게시판 성공!!</h2>
+<h1>jsp 게시판</h1>
+
 </body>
 </html>
