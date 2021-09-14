@@ -16,17 +16,6 @@ public class BoardController {
 	}
 	
 	
-	@RequestMapping(value = "/signUp", method = RequestMethod.GET)
-	public String signUp() {
-		System.out.println("signup");
-		
-		return "/board/signUp";
-	}
-	
-	@RequestMapping(value = "/login", method = RequestMethod.GET)
-	public String login() {
-		System.out.println("login");
-		
-		return "/login";
-	}
+
+
 }

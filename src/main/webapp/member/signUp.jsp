@@ -67,7 +67,7 @@ table{
 	<tr>
 		<td  colspan="2" align="center">
 			<input type="button" value="회원가입" id="signin">
-			<input type="button" value="취소" id="cancel" onclick="location.href='/spring/board/login'">
+			<input type="button" value="취소" id="cancel" onclick="location.href='/spring/member/login'">
 		</td>
 	</tr>
 		

@@ -47,7 +47,7 @@ table{
 	<tr>
 		<td colspan="2" align="center">
 			<input type="button" value="로그인" id="loginBtn" style="width:100; height:50;">
-			<input type="button" value="회원가입"  onclick="location.href='/spring/board/signUp'">
+			<input type="button" value="회원가입"  onclick="location.href='/spring/member/signUp'">
 		</td>
 	</tr>
 	
