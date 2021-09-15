@@ -74,13 +74,13 @@ textarea {
 </head>
 
 <div id="header">
-	<h1> JSP 게시판 연습 </h1>
+	<h1><a href="/spring/index.jsp"> JSP 게시판 연습 </a></h1>
 	<br>
 		 <jsp:include page="/main/menu.jsp"/> 
 </div>
 
 <div id="container">
- <h1> 게시판 테이블 나오게 하자</h1>
+	<jsp:include page="/board/list.jsp"/>
 
 </div>
 

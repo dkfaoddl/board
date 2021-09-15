@@ -30,8 +30,9 @@
 </style>
 
 <ul class="mainnav">
-	<li>목록</li>
-	<li>글쓰기</li>
+	
+	<li><a href="/spring/board/list.jsp">목록</a></li>
+	<li><a href="">글쓰기</a></li>
 	<li><a href="/spring/member/login">로그인</a></li>
 	
 
